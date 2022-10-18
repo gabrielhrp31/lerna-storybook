@@ -36,7 +36,6 @@
 		},
 		computed: {
 			cmpListeners() {
-				console.log(this.$attrs);
 				let listeners = {};
 				Object.assign(listeners, this.$attrs.$listeners);
 				delete listeners.input;
