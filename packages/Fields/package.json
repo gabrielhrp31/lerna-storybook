@@ -1,8 +1,8 @@
 {
-	"name": "@gabrielhrp31/inputs",
-	"version": "0.0.0",
-	"publishConfig": {
-		"access": "public"
-	},
-	"gitHead": "7db40248a850bb988c63879515a3e1949f7531a2"
+  "name": "@gabrielhrp31/inputs",
+  "version": "0.1.0",
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "7db40248a850bb988c63879515a3e1949f7531a2"
 }
