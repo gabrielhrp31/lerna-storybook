@@ -1,5 +1,5 @@
 {
-	"name": "inputs",
+	"name": "@gabrielhrp31/inputs",
 	"version": "0.0.0",
 	"publishConfig": {
 		"access": "public"
