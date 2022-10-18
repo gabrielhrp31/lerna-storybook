@@ -2,6 +2,7 @@
 	"name": "storybook-lerna",
 	"version": "0.1.0",
 	"scripts": {
+		"lint": "vue-cli-service lint",
 		"storybook": "start-storybook -p 6006",
 		"build-storybook": "build-storybook"
 	},
